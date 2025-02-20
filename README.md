@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My Name is Handoko Sugiarto. I am originally come from Jakarta, Indonesia. I have been living in the for 1.5 years currently under Permanent Resident status.
+### My Name is Handoko Sugiarto. I am originally come from Jakarta, Indonesia. I have been living in the US for 1.5 years currently under Permanent Resident status.
 
 <!--
 **handokosugiarto/handokosugiarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
