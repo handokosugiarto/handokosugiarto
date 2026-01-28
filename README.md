@@ -1,5 +1,10 @@
 ### Hi there 👋
-### My Name is Handoko Sugiarto. I am originally come from Jakarta, Indonesia. I have been living in the US for 1.5 years currently under Permanent Resident status.
+### My Name is Handoko Sugiarto. I am originally come from Jakarta, Indonesia. I moved to the US in 2023 after obtaining permanent resident status through the DV Lottery (fiscal year 2023)
+### Sales and Marketing professional with extensive years of experience and a data antusiast who creates actionable insights to help stakehoder make excellent business decision. 
+### Skills: 1. SQL (JOINS, Window Function, Subquery, CTE, and etc)
+###         2. Tableau 
+###         3. Microsoft Excel (Pivot table, Vlookup, Power Queery, and etc)  
+
 - 🔭 I’m currently working on Data Analytics
 - 🌱 I’m currently learning SQL and Tableau
 - 👯 I’m looking to collaborate on ...
