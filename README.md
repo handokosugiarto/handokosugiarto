@@ -4,8 +4,8 @@
 ### Skills:
   ### 1. SQL (JOINS, Window Function, Subquery, CTE, and etc)
   ### 2. Tableau 
-  ### 3. Microsoft Excel (Pivot table, Vlookup, Power Queery, and etc)  
-
+  ### 3. Microsoft Excel (Pivot table, Vlookup, Power Query, and etc)  
+###
 - 🔭 I’m currently working on Data Analytics
 - 🌱 I’m currently learning SQL and Tableau
 - 👯 I’m looking to collaborate on ...
