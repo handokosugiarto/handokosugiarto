@@ -1,11 +1,11 @@
-### Hi there 👋
-### My Name is Handoko Sugiarto. I am originally come from Jakarta, Indonesia. I moved to the US in 2023 after obtaining permanent resident status through the DV Lottery (fiscal year 2023)
-### Sales and Marketing professional with extensive years of experience and a data antusiast who creates actionable insights to help stakehoder make excellent business decision. 
-### Skills:
-  ### 1. SQL (JOINS, Window Function, Subquery, CTE, and etc) 
-  ### 2. Tableau 
-  ### 3. Microsoft Excel (Pivot table, Vlookup, Power Query, and etc)  
-###
+#### Hi there 👋
+ #### My Name is Handoko Sugiarto. I am originally come from Jakarta, Indonesia. I moved to the US in 2023 after obtaining permanent resident status through the DV Lottery (fiscal year 2023). Sales and Marketing have been my career path since beginning of my career. One of most memorable moments was joining GfK Group in Indonesia (now NIQ) as a Client Service Manager (Market Analyst) for Mobile Phones/Smartphone and Information Technology products. One of my key responsiblities was assisting clients in preparing monthly market reports, providing fact based qualitative and quantitative data on market trends and their performance to support informed business decission making. Here are behind the scene in preparing clients reports: 
+  #### 1. Report production. Performing data checking and cleaning with ETL involved on market size, brand, and product features.
+  #### 2. Data Analysis: 
+  #### 1. SQL (JOINS, Window Function, Subquery, CTE, and etc) 
+  #### 2. Tableau 
+  #### 3. Microsoft Excel (Pivot table, Vlookup, Power Query, and etc)  
+Line One. #### hallo
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/handoko-sugiarto-48617011) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hliem93@hotmail.com) [![Tableau Public](https://img.shields.io/badge/Tableau_Public-1F77B4?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/handoko.sugiarto/vizzes)
