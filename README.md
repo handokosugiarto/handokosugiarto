@@ -10,7 +10,7 @@ Line One. #### hallo
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/handoko-sugiarto-48617011) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hliem93@hotmail.com) [![Tableau Public](https://img.shields.io/badge/Tableau_Public-1F77B4?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/handoko.sugiarto/vizzes)
 
-# 💻 Tech Stack:
+## 💻 Expertise:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=handokosugiarto&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
