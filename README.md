@@ -1,7 +1,8 @@
 #### Hi there 👋
  #### My Name is Handoko Sugiarto. I am originally come from Jakarta, Indonesia. I moved to the US in 2023 after obtaining permanent resident status through the DV Lottery (fiscal year 2023). Sales and Marketing have been my career path since beginning of my career. One of most memorable moments was joining GfK Group in Indonesia (now NIQ) as a Client Service Manager (Market Analyst) for Mobile Phones/Smartphone and Information Technology products. One of my key responsiblities was assisting clients in preparing monthly market reports, providing fact based qualitative and quantitative data on market trends and their performance to support informed business decission making. Here are behind the scene in preparing clients reports: 
    #### 1. Report production: Transformed and validated raw market research data into analysis ready datasets, ensuring consistency, stability, and comparability of market size, brand performance across regions and time. 
-  #### 2. Data Analysis: Performed exploratory data analysis to identify trends, regional pattern, and anomalies in total market size, brand sales,order value, and product performance  
+  #### 2. Data Analysis: Performed exploratory data analysis to identify trends, regional patterns, and anomalies across total market size, brand sales, order value, and product performance. 
+  #### 3. Business Analysis and Data Visualization: Evaluated key metrics including Total market size, brand share and performance, average order value, and product performance. Created Visualization to give insights
   #### 1. SQL (JOINS, Window Function, Subquery, CTE, and etc) 
   #### 2. Tableau 
   #### 3. Microsoft Excel (Pivot table, Vlookup, Power Query, and etc)  
