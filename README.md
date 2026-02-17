@@ -6,7 +6,7 @@
 #### Skills:
    #### 1. SQL (JOINS, Window Function, Subquery, CTE, and etc) 
    #### 2. Tableau (Visualization, Calculated Field, Table Calculation, LOD, and etc) 
-   #### 3. Microsoft Excel (Pivot table, Vlookup, Power Query, and etc)  
+   #### 3. Microsoft Excel (Pivot table, VLookup, , Visualization, Dashboarding and etc)  
 
 
 ## 🌐 Socials:
