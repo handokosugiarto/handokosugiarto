@@ -3,7 +3,7 @@ My Name is Handoko Sugiarto. I am originally come from Jakarta, Indonesia. I mov
         
 1. Report production: Transformed and validated raw market research data into analysis ready datasets, ensuring consistency, stability, and comparability of market size, brand performance across regions and time using Microsoft Excel. 
 2. Data Analysis: Performed exploratory data analysis using Excel Pivot Table function to identify trends, regional patterns, and anomalies across total market size, brand sales, order value, and product performance. 
-3. Business Analysis and Data Visualization: Evaluated key metrics including Total market size, brand share and performance, average order value, and product performance. Created visualizations using PowerPoint to support C-level clients' decision makers by integrating syndicated and internal data to generate actionable insights.
+3. Business Analysis and Data Visualization: Evaluated key metrics including Total Sales, Total Quantity, and Average Order Value to understand total market movement, brand and product performance in the market. Created visualizations using PowerPoint to support C-level clients' decision makers by integrating syndicated and internal data to generate actionable insights.
 #### Skills:
         1. SQL (JOINS, Window Function, Subquery, CTE, and etc) 
         2. Tableau (Visualization, Calculated Field, Table Calculation, LOD, and etc) 
